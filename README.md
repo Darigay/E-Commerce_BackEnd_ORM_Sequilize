@@ -7,6 +7,7 @@ https://github.com/Darigay/E-Commerce_BackEnd_ORM_Sequilize
 ## Table of Contents
 - Description
 - usage
+- Walkthrough video
 - Technologies
 - Dependencies
 - Screenshots
