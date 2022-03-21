@@ -41,7 +41,14 @@ Similarly, user can test API POST, PUT, and DELETE routes in Insomnia,  user is 
 - Express.js
 
 ## Screenshots
-
+- GetAllCategories
+![GetAllCategories](https://user-images.githubusercontent.com/94805706/159201554-2e4a4301-ed7d-4eec-b72d-e8e53dc19171.png)
+- Post New Product
+![PostNewProduct](https://user-images.githubusercontent.com/94805706/159201565-c3bbbe52-a07b-4426-be2d-4d87818ddb74.png)
+- Update A Tag
+![UpdateTag](https://user-images.githubusercontent.com/94805706/159201572-4fa7f8f3-a1d2-45cc-8f28-607377010aec.png)
+- Delete a Tag
+![DeleteTag](https://user-images.githubusercontent.com/94805706/159201576-a6e86718-3c97-406a-9540-39b17de93035.png)
 
 
 ## Resources
