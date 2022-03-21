@@ -26,6 +26,12 @@ Then the user enter the "node server.js" to invoke the application, by which ser
 User upon opening API GET routes in Insomnia for categories, products, or tags the data for each of these routes is displayed in a formatted JSON.
 Similarly, user can test API POST, PUT, and DELETE routes in Insomnia,  user is able to successfully create, update, and delete data in my database.
 
+## WalkThrough Video
+the video explains the dependencies, Run , seed the application along with interaction with database using Insomnia
+
+https://user-images.githubusercontent.com/94805706/159204230-2e72410b-e208-4dad-8d92-01e0f61459c8.mp4
+
+
 ## Technologies
 - Javascript
 - Node.Js
